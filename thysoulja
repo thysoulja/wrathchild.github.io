@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>wrathchild</title>
+
+<style>
+body{
+    margin:0;
+    background:black;
+    color:white;
+    font-family:Arial,sans-serif;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+
+h1{
+    font-size:5rem;
+    margin-bottom:40px;
+}
+
+.links{
+    display:flex;
+    gap:15px;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+a{
+    color:white;
+    text-decoration:none;
+    border:1px solid white;
+    padding:12px 24px;
+}
+
+a:hover{
+    background:white;
+    color:black;
+}
+</style>
+</head>
+
+<body>
+
+<h1>wrathchild</h1>
+
+<div class="links">
+    <a href="https://open.spotify.com/artist/4Yb1ofYKo6RuQEep1epX02">Spotify</a>
+    <a href="https://soundcloud.com/thysoulja">SoundCloud</a>
+    <a href="https://youtube.com/@thysoulja">YouTube</a>
+    <a href="https://instagram.com/wrathchild6">Instagram</a>
+    <a href="https://x.com/thysoulja">TikTok</a>
+</div>
+
+</body>
+</html>
